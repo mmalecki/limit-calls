@@ -1,6 +1,6 @@
 {
   "name": "limit-calls",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Limit number of parallel calls to an asynchronous function",
   "keywords": ["limit", "calls", "function"],
   "author": "Maciej Małecki <me@mmalecki.com>",
